@@ -77,7 +77,9 @@ header.masthead {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
+
 /* Cambios hecho por Raul Vaquerizo */
+/* AAplico flex per fer el menu de navegació y el alineo al començament */
 .navbar > .container{
   display: flex;
   flex-wrap: inherit;
